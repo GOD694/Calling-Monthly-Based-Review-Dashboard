@@ -77,6 +77,28 @@ This dashboard provides real-time insights into call center operations, includin
 - **Values:** Total Calls
 - **Purpose:** Monitor call volume trends over time
 
+## 📸 Screenshots
+
+Below are examples of the dashboard visualizations:
+
+### Dashboard Overview
+![Dashboard Overview](./images/dashboard-overview.png)
+*Main dashboard view showing all KPI cards and visualizations*
+
+### Regional Analysis
+![Regional Analysis](./images/regional-analysis.png)
+*Total calls by region and regional satisfaction metrics*
+
+### Revenue Trends
+![Revenue Trends](./images/revenue-trends.png)
+*Up-sell revenue trend and total revenue by product*
+
+### Performance Metrics
+![Performance Metrics](./images/performance-metrics.png)
+*Resolution status, call duration analysis, and satisfaction scores*
+
+> **Note:** To add actual screenshots, place PNG or JPG images in an `images/` folder within the repository and reference them using the paths above.
+
 ## 📋 Data Model
 
 ### CallData Table Structure
