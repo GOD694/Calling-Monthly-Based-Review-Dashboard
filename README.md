@@ -4,7 +4,7 @@ A comprehensive Power BI dashboard designed to monitor and analyze call center p
 
 ## 📊 Overview
 
-This dashboard provides real-time insights into call center operations, including call volumes, revenue generation, customer satisfaction, and resolution rates. It enables management to track KPIs, identify trends, and make data-driven decisions to optimize call center performance.
+This dashboard provides real-time insights into call center operations, including call volumes, revenue generation, customer satisfaction, and resolution rates. It enables management to track KPIs, identify trends, and make data-driven decisions.
 
 ## 🎯 Key Performance Indicators (KPIs)
 
@@ -82,22 +82,20 @@ This dashboard provides real-time insights into call center operations, includin
 Below are examples of the dashboard visualizations:
 
 ### Dashboard Overview
-![Dashboard Overview]([https://github.com/GOD694/Calling-Monthly-Based-Review-Dashboard/blob/main/calling%20data/Screenshot%202026-07-15%20194911.png])(https://github.com/GOD694/Calling-Monthly-Based-Review-Dashboard/blob/main/calling%20data/Screenshot%202026-07-15%20195438.png?raw=true)
-*Main dashboard view showing all KPI cards and visualizations*
+![Dashboard Overview - KPI Cards](./images/dashboard-overview.png)
+*Main dashboard view showing all KPI cards including Total Revenue (2M), Total Calls (15K), Average Satisfaction (2.99), Total Up-sells (40K), and Revenue per Call (1.00)*
 
-### Regional Analysis
-![Regional Analysis](./images/regional-analysis.png)
-*Total calls by region and regional satisfaction metrics*
+### Average Call Duration Analysis
+![Average Call Duration by Product](./images/call-duration-product.png)
+*Average Call Duration by Product showing trend analysis with product-wise breakdown across different regions*
 
-### Revenue Trends
-![Revenue Trends](./images/revenue-trends.png)
-*Up-sell revenue trend and total revenue by product*
+### Regional and Product Analysis
+![Regional and Product Calls Analysis](./images/regional-product-analysis.png)
+*Total calls by region with detailed product breakdown table showing call distribution across East, Mid-west, North, South, and West regions*
 
-### Performance Metrics
-![Performance Metrics](./images/performance-metrics.png)
-*Resolution status, call duration analysis, and satisfaction scores*
-
-> **Note:** To add actual screenshots, place PNG or JPG images in an `images/` folder within the repository and reference them using the paths above.
+### Complete Dashboard Overview
+![Complete Dashboard - Year 2016](./images/complete-dashboard.png)
+*Comprehensive dashboard view for 2016 showing all KPIs, regional analysis, revenue trends, call distribution, and satisfaction metrics*
 
 ## 📋 Data Model
 
