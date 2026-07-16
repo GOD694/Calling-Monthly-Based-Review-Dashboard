@@ -82,7 +82,7 @@ This dashboard provides real-time insights into call center operations, includin
 Below are examples of the dashboard visualizations:
 
 ### Dashboard Overview
-![Dashboard Overview]https://github.com/GOD694/Calling-Monthly-Based-Review-Dashboard/blob/main/calling%20data/Screenshot%202026-07-15%20194911.png
+![Dashboard Overview]([https://github.com/GOD694/Calling-Monthly-Based-Review-Dashboard/blob/main/calling%20data/Screenshot%202026-07-15%20194911.png])(https://github.com/GOD694/Calling-Monthly-Based-Review-Dashboard/blob/main/calling%20data/Screenshot%202026-07-15%20195438.png?raw=true)
 *Main dashboard view showing all KPI cards and visualizations*
 
 ### Regional Analysis
