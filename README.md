@@ -82,7 +82,7 @@ This dashboard provides real-time insights into call center operations, includin
 Below are examples of the dashboard visualizations:
 
 ### Dashboard Overview
-![Dashboard Overview](calling%data/Screenshot%2026-07-15%195438.png)
+![Dashboard Overview](calling data/Screenshot 2026-07-15 195438.png)
 *Main dashboard view showing all KPI cards including Total Revenue (2M), Total Calls (15K), Average Satisfaction (2.99), Total Up-sells (40K), and Revenue per Call (1.00)*
 
 ### Average Call Duration Analysis
