@@ -4,7 +4,7 @@ A comprehensive Power BI dashboard designed to monitor and analyze call center p
 
 ## 📊 Overview
 
-This dashboard provides real-time insights into call center operations, including call volumes, revenue generation, customer satisfaction, and resolution rates. It enables management to track KPIs, identify trends, and make data-driven decisions.
+This dashboard provides real-time insights into call center operations, including call volumes, revenue generation, customer satisfaction, and resolution rates. It enables management to track KPIs, identify trends, and optimize call center performance.
 
 ## 🎯 Key Performance Indicators (KPIs)
 
@@ -82,7 +82,7 @@ This dashboard provides real-time insights into call center operations, includin
 Below are examples of the dashboard visualizations:
 
 ### Dashboard Overview
-![Dashboard Overview](calling data/Screenshot 2026-07-15 195438.png)
+![Dashboard Overview - KPI Cards](./calling%20data/Screenshot%202026-07-15%20195438.png)
 *Main dashboard view showing all KPI cards including Total Revenue (2M), Total Calls (15K), Average Satisfaction (2.99), Total Up-sells (40K), and Revenue per Call (1.00)*
 
 ### Average Call Duration Analysis
